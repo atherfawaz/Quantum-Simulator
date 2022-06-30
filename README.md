@@ -1,4 +1,4 @@
-# Simulating a quantum commputer using a classical computer
+# Simulating a quantum computer using a classical computer
 
 
 This notebook contains a quantum simulator built from scratch using basic libararies. The simulator performs the following functions:
